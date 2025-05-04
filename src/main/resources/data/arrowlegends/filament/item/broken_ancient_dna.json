@@ -1,0 +1,10 @@
+{
+  "id": "arrowlegends:broken_ancient_dna",
+  "group": "arrowlegends:legendary_items",
+  "vanillaItem": "minecraft:paper",
+  "itemResource":{
+    "models": {
+      "default": "arrowlegends:item/broken_ancient_dna"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "arrowlegends",
+  "version": "${version}",
+  "name": "ArrowLegends",
+  "description": "A server mod for the Project: Zen server",
+  "authors": [
+    "Elrol"
+  ],
+  "license": "MIT License",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "dev.elrol.arrow.legends.ArrowLegends"
+    ]
+  },
+  "depends": {
+    "minecraft": "1.21.1",
+    "cobblemon": ">=1.6.0",
+    "luckperms": ">=5.4",
+    "arrowcore": ">=1.4.17"
+  },
+  "mixins": [
+    "arrowlegends.mixins.json"
+  ]
+}

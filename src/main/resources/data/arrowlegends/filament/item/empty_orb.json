@@ -1,0 +1,10 @@
+{
+  "id": "arrowlegends:empty_orb",
+  "group": "arrowlegends:legendary_items",
+  "vanillaItem": "minecraft:paper",
+  "itemResource":{
+    "models": {
+      "default": "arrowlegends:item/empty_orb"
+    }
+  }
+}

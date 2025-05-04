@@ -1,0 +1,26 @@
+{
+  "item.arrowlegends.ancient_dna":        "Ancient DNA",
+  "item.arrowlegends.broken_ancient_dna": "Ancient DNA",
+  "item.arrowlegends.dull_ancient_dna":   "Ancient DNA",
+  "item.arrowlegends.amulet_coin":        "Amulet Coin",
+  "item.arrowlegends.empty_orb":          "Empty Orb",
+  "item.arrowlegends.flame_orb":          "Flame Orb",
+  "item.arrowlegends.shock_orb":          "Shock Orb",
+  "item.arrowlegends.frost_orb":          "Frost Orb",
+  "item.arrowlegends.shadow_orb":         "Shadow Orb",
+
+  "item.arrowlegends.red_apricorn_block":         "Red Apricorn Block",
+  "block.arrowlegends.red_apricorn_block":        "Red Apricorn Block",
+  "item.arrowlegends.yellow_apricorn_block":      "Yellow Apricorn Block",
+  "block.arrowlegends.yellow_apricorn_block":     "Yellow Apricorn Block",
+  "item.arrowlegends.green_apricorn_block":       "Green Apricorn Block",
+  "block.arrowlegends.green_apricorn_block":      "Green Apricorn Block",
+  "item.arrowlegends.blue_apricorn_block":        "Blue Apricorn Block",
+  "block.arrowlegends.blue_apricorn_block":       "Blue Apricorn Block",
+  "item.arrowlegends.pink_apricorn_block":        "Pink Apricorn Block",
+  "block.arrowlegends.pink_apricorn_block":       "Pink Apricorn Block",
+  "item.arrowlegends.white_apricorn_block":       "White Apricorn Block",
+  "block.arrowlegends.white_apricorn_block":      "White Apricorn Block",
+  "item.arrowlegends.black_apricorn_block":       "Black Apricorn Block",
+  "block.arrowlegends.black_apricorn_block":      "Black Apricorn Block"
+}

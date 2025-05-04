@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "arrowlegends:blue_apricorn_block"
+    }
+  ],
+  "result": {
+    "id": "cobblemon:blue_apricorn",
+    "count": 9
+  }
+}

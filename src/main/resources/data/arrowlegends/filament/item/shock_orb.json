@@ -1,0 +1,10 @@
+{
+  "id": "arrowlegends:shock_orb",
+  "group": "arrowlegends:legendary_items",
+  "vanillaItem": "minecraft:paper",
+  "itemResource":{
+    "models": {
+      "default": "arrowlegends:item/shock_orb"
+    }
+  }
+}

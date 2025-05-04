@@ -1,0 +1,19 @@
+{
+  "id": "arrowlegends:red_apricorn_block",
+  "vanillaItem": "minecraft:paper",
+  "blockResource": {
+    "models": {
+      "default": "arrowlegends:block/red_apricorn_block"
+    }
+  },
+  "itemResource": {
+    "models": {
+      "default": "arrowlegends:item/red_apricorn_block"
+    }
+  },
+  "blockModelType": "full_block",
+  "properties": {
+    "blockBase": "minecraft:oak_planks"
+  },
+  "group": "arrowlegends:legendary_items"
+}

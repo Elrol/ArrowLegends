@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "cobblemon:fire_stone"
+    },
+    "B": {
+      "item": "arrowlegends:empty_orb"
+    }
+  },
+  "result": {
+    "id": "arrowlegends:flame_orb"
+  }
+}

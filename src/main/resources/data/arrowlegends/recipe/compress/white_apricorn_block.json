@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "cobblemon:white_apricorn"
+    }
+  },
+  "result": {
+    "id": "arrowlegends:white_apricorn_block"
+  }
+}

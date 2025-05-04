@@ -1,0 +1,10 @@
+{
+  "id": "arrowlegends:frost_orb",
+  "group": "arrowlegends:legendary_items",
+  "vanillaItem": "minecraft:paper",
+  "itemResource":{
+    "models": {
+      "default": "arrowlegends:item/frost_orb"
+    }
+  }
+}

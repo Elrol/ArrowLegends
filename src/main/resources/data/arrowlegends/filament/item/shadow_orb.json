@@ -1,0 +1,10 @@
+{
+  "id": "arrowlegends:shadow_orb",
+  "vanillaItem": "minecraft:paper",
+  "itemResource": {
+    "models": {
+      "default": "arrowlegends:item/shadow_orb"
+    }
+  },
+  "group": "arrowlegends:legendary_items"
+}

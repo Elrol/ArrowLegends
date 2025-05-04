@@ -1,0 +1,10 @@
+{
+  "id": "arrowlegends:flame_orb",
+  "group": "arrowlegends:legendary_items",
+  "vanillaItem": "minecraft:paper",
+  "itemResource":{
+    "models": {
+      "default": "arrowlegends:item/flame_orb_1"
+    }
+  }
+}
