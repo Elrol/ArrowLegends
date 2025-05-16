@@ -4,7 +4,7 @@
   "vanillaItem": "minecraft:paper",
   "itemResource":{
     "models": {
-      "default": "arrowlegends:item/empty_orb"
+      "default": "arrowlegends:item/custom/empty_orb"
     }
   }
 }

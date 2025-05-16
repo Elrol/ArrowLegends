@@ -3,12 +3,12 @@
   "vanillaItem": "minecraft:paper",
   "blockResource": {
     "models": {
-      "default": "arrowlegends:block/black_apricorn_block"
+      "default": "arrowlegends:block/custom/black_apricorn_block"
     }
   },
   "itemResource": {
     "models": {
-      "default": "arrowlegends:item/black_apricorn_block"
+      "default": "arrowlegends:item/custom/black_apricorn_block"
     }
   },
   "blockModelType": "full_block",

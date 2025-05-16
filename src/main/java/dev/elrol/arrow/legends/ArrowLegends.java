@@ -2,12 +2,10 @@ package dev.elrol.arrow.legends;
 
 import com.cobblemon.mod.common.api.Priority;
 import com.cobblemon.mod.common.api.events.CobblemonEvents;
-import de.tomalbrc.filament.api.FilamentLoader;
 import dev.elrol.arrow.ArrowCore;
 import dev.elrol.arrow.api.events.ArrowEvents;
 import dev.elrol.arrow.api.events.FinishBrushingCallback;
 import dev.elrol.arrow.api.events.RefreshCallback;
-import dev.elrol.arrow.api.registries.IEventRegistry;
 import dev.elrol.arrow.legends.data.AncientDNAConfig;
 import dev.elrol.arrow.legends.data.PokemonSettings;
 import dev.elrol.arrow.legends.libs.LegendsConstants;
@@ -15,10 +13,8 @@ import dev.elrol.arrow.legends.registries.FossilRegistry;
 import dev.elrol.arrow.legends.registries.ItemRegistry;
 import dev.elrol.arrow.legends.registries.PokemonPropertyRegistry;
 import dev.elrol.arrow.libs.ModUtils;
-import eu.pb4.polymer.resourcepack.api.PolymerResourcePackUtils;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.ModInitializer;
-import net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents;
 import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -72,7 +68,7 @@ public class ArrowLegends implements ModInitializer {
             PokemonPropertyRegistry.register();
         });
 
-        RefreshCallback.EVENT.register(() -> {
+        RefreshCallback.EVENT.register((server) -> {
             CONFIG = CONFIG.load();
             return ActionResult.PASS;
         });

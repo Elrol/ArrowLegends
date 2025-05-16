@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "arrowlegends:item/empty_orb",
-		"2": "arrowlegends:item/orb_center_2",
-		"particle": "arrowlegends:item/empty_orb"
+		"0": "arrowlegends:item/custom/empty_orb",
+		"2": "arrowlegends:item/custom/orb_center_2",
+		"particle": "arrowlegends:item/custom/empty_orb"
 	},
 	"elements": [
 		{

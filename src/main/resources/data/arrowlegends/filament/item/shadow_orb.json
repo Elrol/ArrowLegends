@@ -3,7 +3,7 @@
   "vanillaItem": "minecraft:paper",
   "itemResource": {
     "models": {
-      "default": "arrowlegends:item/shadow_orb"
+      "default": "arrowlegends:item/custom/shadow_orb"
     }
   },
   "group": "arrowlegends:legendary_items"

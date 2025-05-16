@@ -4,7 +4,7 @@
   "vanillaItem": "minecraft:paper",
   "itemResource":{
     "models": {
-      "default": "arrowlegends:item/frost_orb"
+      "default": "arrowlegends:item/custom/frost_orb"
     }
   }
 }

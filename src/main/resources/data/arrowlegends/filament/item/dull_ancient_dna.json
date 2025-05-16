@@ -4,7 +4,7 @@
   "vanillaItem": "minecraft:paper",
   "itemResource":{
     "models": {
-      "default": "arrowlegends:item/dull_ancient_dna"
+      "default": "arrowlegends:item/custom/dull_ancient_dna"
     }
   }
 }

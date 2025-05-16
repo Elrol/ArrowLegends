@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "arrowlegends:item/broken_ancient_dna",
-		"2": "minecraft:block/glass",
-		"3": "minecraft:block/oak_planks",
-		"particle": "arrowlegends:item/broken_ancient_dna"
+		"0": "arrowlegends:item/custom/ancient_dna",
+		"2": "block/glass",
+		"3": "block/oak_planks",
+		"particle": "arrowlegends:item/custom/ancient_dna"
 	},
 	"elements": [
 		{

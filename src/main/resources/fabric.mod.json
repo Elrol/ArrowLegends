@@ -18,7 +18,7 @@
     "minecraft": "1.21.1",
     "cobblemon": ">=1.6.0",
     "luckperms": ">=5.4",
-    "arrowcore": ">=1.4.17"
+    "arrowcore": ">=1.6.0"
   },
   "mixins": [
     "arrowlegends.mixins.json"

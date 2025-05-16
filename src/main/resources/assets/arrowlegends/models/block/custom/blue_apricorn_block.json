@@ -1,0 +1,9 @@
+{
+	"parent": "arrowlegends:block/custom/base_block",
+	"textures": {
+		"particle": "arrowlegends:block/custom/blue_apricorn_block/side",
+		"bottom": "arrowlegends:block/custom/apricorn_block_bottom",
+		"top": "arrowlegends:block/custom/blue_apricorn_block/top",
+		"side": "arrowlegends:block/custom/blue_apricorn_block/side"
+	}
+}

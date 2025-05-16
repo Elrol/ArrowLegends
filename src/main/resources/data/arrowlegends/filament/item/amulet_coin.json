@@ -1,10 +1,10 @@
 {
-  "id": "arrowlegends:broken_ancient_dna",
+  "id": "arrowlegends:amulet_coin",
   "group": "arrowlegends:legendary_items",
   "vanillaItem": "minecraft:paper",
   "itemResource":{
     "models": {
-      "default": "arrowlegends:item/custom/broken_ancient_dna"
+      "default": "arrowlegends:item/custom/amulet_coin"
     }
   }
 }
