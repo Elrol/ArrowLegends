@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "arrowlegends:shadow_orb",
+    "arrowlegends:flame_orb",
+    "arrowlegends:frost_orb",
+    "arrowlegends:shock_orb"
+  ]
+}

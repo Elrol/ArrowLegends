@@ -1,0 +1,6 @@
+{
+  "parent": "arrowlegends:item/custom/card_item",
+  "textures": {
+    "0": "arrowlegends:item/custom/rocket_card"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:moltres",
+  "evolutions": [
+    {
+      "id": "moltres_shadow_moltres",
+      "variant": "item_interact",
+      "result": "shadow_moltres",
+      "consumeHeldItem": false,
+      "permanent": true,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "arrowlegends:shadow_orb_full"
+    }
+  ]
+}

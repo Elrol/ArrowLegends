@@ -59,6 +59,7 @@ public class LegendsConfig extends _BaseConfig {
             } else {
                 settings = new PokemonSettings();
                 specificSettings.put(species, settings);
+                ArrowLegends.CONFIG.save();
             }
             return settings;
         }

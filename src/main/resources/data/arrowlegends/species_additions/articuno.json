@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:articuno",
+  "evolutions": [
+    {
+      "id": "articuno_shadow_articuno",
+      "variant": "item_interact",
+      "result": "shadow_articuno",
+      "consumeHeldItem": false,
+      "permanent": true,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "arrowlegends:shadow_orb_full"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:mewtwo",
+  "evolutions": [
+    {
+      "id": "mewtwo_shadow_mewtwo",
+      "variant": "item_interact",
+      "result": "shadow_mewtwo",
+      "consumeHeldItem": false,
+      "permanent": true,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "arrowlegends:shadow_orb_full"
+    }
+  ]
+}

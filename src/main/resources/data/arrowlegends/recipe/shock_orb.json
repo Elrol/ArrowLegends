@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "xyx",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "cobblemon:thunder_stone"
+    },
+    "y": {
+      "item": "arrowlegends:empty_orb"
+    }
+  },
+  "result": {
+    "id": "arrowlegends:shock_orb",
+    "components": {
+      "minecraft:damage": 100
+    },
+    "count": 1
+  }
+}

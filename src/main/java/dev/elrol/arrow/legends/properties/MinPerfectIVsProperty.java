@@ -24,7 +24,7 @@ public class MinPerfectIVsProperty implements CustomPokemonPropertyType<IntPrope
         if(ArrowCore.CONFIG.isDebug) ArrowLegends.LOGGER.error("Property Created");
     }
 
-    IntProperty minPerfectIVs(int min) {
+    public static IntProperty minPerfectIVs(int min) {
         if(ArrowCore.CONFIG.isDebug) ArrowLegends.LOGGER.error("esftghbnjlkl: Creating new MinPerfectIVs instance");
         return new IntProperty(key, min,
                 (pokemon, integer) -> {
@@ -45,11 +45,11 @@ public class MinPerfectIVsProperty implements CustomPokemonPropertyType<IntPrope
                     }
                     return Unit.INSTANCE;
                 },
-                this::hasEnoughIVs,
+                MinPerfectIVsProperty::hasEnoughIVs,
                 (pokemonEntity, integer) -> hasEnoughIVs(pokemonEntity.getPokemon(), integer));
     }
 
-    private boolean hasEnoughIVs(Pokemon pokemon, int min) {
+    private static boolean hasEnoughIVs(Pokemon pokemon, int min) {
         if(ArrowCore.CONFIG.isDebug) ArrowLegends.LOGGER.error("esftghbnjlkl: Checking if pokemon has enough perfect IVs");
         IVs ivs = pokemon.getIvs();
         AtomicInteger total = new AtomicInteger();

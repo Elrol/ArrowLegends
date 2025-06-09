@@ -1,10 +1,18 @@
 {
   "id": "arrowlegends:shadow_orb",
+  "group": "arrowlegends:legendary_items",
   "vanillaItem": "minecraft:paper",
-  "itemResource": {
+  "itemResource":{
     "models": {
       "default": "arrowlegends:item/custom/shadow_orb"
     }
   },
-  "group": "arrowlegends:legendary_items"
+  "properties": {
+    "durability": 100,
+    "stackSize": 1,
+    "lore": [
+      "<dark_aqua>Hold this in your off-hand while battling</dark_aqua>",
+      "<dark_aqua>wild dark Pokemon to charge it.</dark_aqua>"
+    ]
+  }
 }

@@ -22,7 +22,7 @@ public class ShinyChanceProperty implements CustomPokemonPropertyType<FloatPrope
         if(ArrowCore.CONFIG.isDebug) ArrowLegends.LOGGER.error("Property Created");
     }
 
-    FloatProperty shinyChance(float min) {
+    public static FloatProperty shinyChance(float min) {
         if(ArrowCore.CONFIG.isDebug) ArrowLegends.LOGGER.error("esftghbnjlkl: Creating new ShinyChance instance");
         return new FloatProperty(key, min,
                 (pokemon, chance) -> {

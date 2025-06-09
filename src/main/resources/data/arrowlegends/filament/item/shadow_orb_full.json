@@ -1,0 +1,17 @@
+{
+  "id": "arrowlegends:shadow_orb_full",
+  "group": "arrowlegends:legendary_items",
+  "vanillaItem": "minecraft:paper",
+  "itemResource":{
+    "models": {
+      "default": "arrowlegends:item/custom/shadow_orb_4"
+    }
+  },
+  "properties": {
+    "durability": 100,
+    "stackSize": 1,
+    "lore": [
+      "<dark_aqua>Use this on certain Pokemon to darken them</dark_aqua>"
+    ]
+  }
+}

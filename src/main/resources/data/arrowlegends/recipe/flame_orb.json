@@ -1,19 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " A ",
-    "ABA",
-    " A "
+    " x ",
+    "xyx",
+    " x "
   ],
   "key": {
-    "A": {
+    "x": {
       "item": "cobblemon:fire_stone"
     },
-    "B": {
+    "y": {
       "item": "arrowlegends:empty_orb"
     }
   },
   "result": {
-    "id": "arrowlegends:flame_orb"
+    "id": "arrowlegends:flame_orb",
+    "components": {
+      "minecraft:damage": 100
+    },
+    "count": 1
   }
 }

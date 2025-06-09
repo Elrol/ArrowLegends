@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:zapdos",
+  "evolutions": [
+    {
+      "id": "zapdos_shadow_zapdos",
+      "variant": "item_interact",
+      "result": "shadow_zapdos",
+      "consumeHeldItem": false,
+      "permanent": true,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "arrowlegends:shadow_orb_full"
+    }
+  ]
+}

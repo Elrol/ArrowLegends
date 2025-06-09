@@ -4,7 +4,15 @@
   "vanillaItem": "minecraft:paper",
   "itemResource":{
     "models": {
-      "default": "arrowlegends:item/custom/flame_orb_1"
+      "default": "arrowlegends:item/custom/flame_orb"
     }
+  },
+  "properties": {
+    "durability": 100,
+    "stackSize": 1,
+    "lore": [
+      "<dark_aqua>Hold this in your off-hand while battling</dark_aqua>",
+      "<dark_aqua>wild fire Pokemon to charge it.</dark_aqua>"
+    ]
   }
 }

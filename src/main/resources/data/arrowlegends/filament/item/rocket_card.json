@@ -1,0 +1,10 @@
+{
+  "id": "arrowlegends:rocket_card",
+  "group": "arrowlegends:legendary_items",
+  "vanillaItem": "minecraft:paper",
+  "itemResource":{
+    "models": {
+      "default": "arrowlegends:item/custom/rocket_card_item"
+    }
+  }
+}

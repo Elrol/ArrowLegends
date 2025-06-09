@@ -6,5 +6,13 @@
     "models": {
       "default": "arrowlegends:item/custom/frost_orb"
     }
+  },
+  "properties": {
+    "durability": 100,
+    "stackSize": 1,
+    "lore": [
+      "<dark_aqua>Hold this in your off-hand while battling</dark_aqua>",
+      "<dark_aqua>wild ice Pokemon to charge it.</dark_aqua>"
+    ]
   }
 }

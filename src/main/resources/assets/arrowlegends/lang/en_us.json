@@ -5,9 +5,14 @@
   "item.arrowlegends.amulet_coin":        "Amulet Coin",
   "item.arrowlegends.empty_orb":          "Empty Orb",
   "item.arrowlegends.flame_orb":          "Flame Orb",
+  "item.arrowlegends.flame_orb_full":     "Flame Orb",
   "item.arrowlegends.shock_orb":          "Shock Orb",
+  "item.arrowlegends.shock_orb_full":     "Shock Orb",
   "item.arrowlegends.frost_orb":          "Frost Orb",
+  "item.arrowlegends.frost_orb_full":     "Frost Orb",
   "item.arrowlegends.shadow_orb":         "Shadow Orb",
+  "item.arrowlegends.shadow_orb_full":    "Shadow Orb",
+  "item.arrowlegends.rocket_card":        "Key Card",
 
   "item.arrowlegends.red_apricorn_block":         "Red Apricorn Block",
   "block.arrowlegends.red_apricorn_block":        "Red Apricorn Block",
@@ -22,5 +27,9 @@
   "item.arrowlegends.white_apricorn_block":       "White Apricorn Block",
   "block.arrowlegends.white_apricorn_block":      "White Apricorn Block",
   "item.arrowlegends.black_apricorn_block":       "Black Apricorn Block",
-  "block.arrowlegends.black_apricorn_block":      "Black Apricorn Block"
+  "block.arrowlegends.black_apricorn_block":      "Black Apricorn Block",
+
+  "arrow.message.orb_filled":                     "Your orb is now %1$s filled.",
+  "arrow.message.orb_full":                       "Your orb is now full! Shift right click it onto a %1$s beacon!",
+  "arrow.message.shadow_orb_full":                "Your orb is now full! Use it on certain pokemon to evolve them!"
 }

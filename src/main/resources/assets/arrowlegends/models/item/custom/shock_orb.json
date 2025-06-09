@@ -1,3 +1,10 @@
 {
-  "parent": "arrowlegends:item/custom/empty_orb"
+  "parent": "arrowlegends:item/custom/shock_orb_1",
+  "overrides": [
+    { "predicate": { "damage": 0.0  }, "model": "arrowlegends:item/custom/shock_orb_1" },
+    { "predicate": { "damage": 0.01  }, "model": "arrowlegends:item/custom/shock_orb_4" },
+    { "predicate": { "damage": 0.25 }, "model": "arrowlegends:item/custom/shock_orb_3" },
+    { "predicate": { "damage": 0.5 }, "model": "arrowlegends:item/custom/shock_orb_2" },
+    { "predicate": { "damage": 0.75 }, "model": "arrowlegends:item/custom/shock_orb_1" }
+  ]
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "arrowlegends:item/custom/orb_1",
+	"textures": {
+		"center": "arrowlegends:item/custom/shadow_orb_center_1"
+	}
+}
